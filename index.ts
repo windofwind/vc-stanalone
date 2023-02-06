@@ -1,1 +1,1 @@
-import './src/app';
+export * from './src/app';
